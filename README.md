@@ -1,1 +1,1 @@
-# -Quantitative-Analytics
+# Quantitative-Analytics
